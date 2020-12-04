@@ -10,11 +10,11 @@
         "projectUniqueName": "C:\\xampp\\htdocs\\TitleTownCards\\TitleTownCards.csproj",
         "projectName": "TitleTownCards",
         "projectPath": "C:\\xampp\\htdocs\\TitleTownCards\\TitleTownCards.csproj",
-        "packagesPath": "C:\\Users\\birdc\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\landu\\.nuget\\packages\\",
         "outputPath": "C:\\xampp\\htdocs\\TitleTownCards\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\birdc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\landu\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,6 +26,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -37,6 +38,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "MySql.Data": {
               "target": "Package",
@@ -66,7 +68,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

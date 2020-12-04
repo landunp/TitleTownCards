@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\Users\\hepet\\source\\repos\\TitleTownCards-1\\API\\API.csproj",
+  "FilePath": "c:\\Users\\landu\\Repos\\TitleTownCards\\API\\API.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "3.0",
@@ -14387,7 +14387,7 @@
         }
       }
     ],
-    "CSharpLanguageVersion": 900
+    "CSharpLanguageVersion": 800
   },
   "RootNamespace": "API",
   "Documents": [],
